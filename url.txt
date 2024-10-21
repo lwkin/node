@@ -1,0 +1,13 @@
+www.gov.ua:2096#美国
+www.gco.gov.qa:8443#美国
+www.gov.se#美国
+www.wto.org:8443#美国
+fbi.gov:2087#美国
+icook.hk#美国
+cf.090227.xyz#香港
+visa.cn:443#香港
+singapore.com:8443#香港
+ japan.com:2053#香港
+brazil.com:2083#香港
+russia.com:2087#香港
+time.is#香港
